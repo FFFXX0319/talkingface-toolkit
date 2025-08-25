@@ -5,11 +5,9 @@
 - 实验项目为voice_conversion类别下的adaptive-VC
 
 - 项目由付宇轩1120213142个人完成
-  - 重构代码地址：https://github.com/FFFXX0319/talkingface-toolkit.git
-  - 源代码地址：https://github.com/jjery2243542/adaptive_voice_conversion.git
 
 - 文档主要分为两个部分：
-  - 代码结构介绍：对重构的代码结构进行介绍，并说明完成的工作
+  - 代码介绍：对代码的整体结构进行介绍，并说明完成的工作
   - 实验步骤：说明实验流程，对模型训练、验证和推理的结果进行展示
 
 ## 代码结构介绍
